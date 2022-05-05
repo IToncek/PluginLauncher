@@ -1,0 +1,4 @@
+name: PluginLauncher
+version: '${project.version}'
+main: me.itoncek.pluginlauncher.PluginLauncher
+api-version: 1.18
